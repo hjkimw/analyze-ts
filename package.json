@@ -15,6 +15,7 @@
     "redux": "^5.0.1"
   },
   "devDependencies": {
+    "@types/react": "^19.0.10",
     "jquery": "^3.7.1",
     "typescript": "^5.8.2"
   }
