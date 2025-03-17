@@ -11,9 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "@types/jquery": "^3.5.32",
+    "axios": "^1.8.2",
     "redux": "^5.0.1"
   },
   "devDependencies": {
-    "jquery": "^3.7.1"
+    "jquery": "^3.7.1",
+    "typescript": "^5.8.2"
   }
 }
